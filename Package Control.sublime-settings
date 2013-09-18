@@ -1,0 +1,23 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Better JavaScript",
+		"eco",
+		"EditorConfig",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"JsFormat",
+		"JSHint Gutter",
+		"LaTeXTools",
+		"LESS",
+		"SideBarEnhancements",
+		"Theme - Phoenix",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight"
+	]
+}

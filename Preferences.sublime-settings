@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+		"JavaScript"
+	],
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_tabs_small": true,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Phoenix Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

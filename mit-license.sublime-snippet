@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+/*
+ * Copyright ${1:2013}, All rights reserved.
+ *
+ * Code licensed under the MIT license:
+ * http://zenorocha.mit-license.org
+ *
+ * @author Zeno Rocha <hi@zenorocha.com>
+ */
+]]></content>
+    <tabTrigger>mit</tabTrigger>
+</snippet>

@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+{
+    "bitwise": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "evil": true,
+    "expr": true,
+    "immed": true,
+    "latedef": true,
+    "laxbreak": true,
+    "newcap": true,
+    "noarg": true,
+    "node": true,
+    "onevar": false,
+    "passfail": false,
+    "quotmark": "single",
+    "regexdash": true,
+    "sloppy": true,
+    "smarttabs": true,
+    "sub": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "vars": true,
+    "wsh": true
+}
+]]></content>
+    <tabTrigger>jshint</tabTrigger>
+</snippet>

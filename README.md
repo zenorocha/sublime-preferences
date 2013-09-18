@@ -14,7 +14,7 @@ See [Package Control.sublime-settings](https://github.com/zenorocha/sublime-pref
 
 All plugins need to be downloaded from [Package Control](https://sublime.wbond.net/).
 
-### Missing plugins on Sublime Text 3
+### Missing plugins on ST3
 
 * AutoFileName
 * CDN.js
@@ -24,6 +24,8 @@ All plugins need to be downloaded from [Package Control](https://sublime.wbond.n
 ## Snippets
 
 See [snippets](https://github.com/zenorocha/sublime-preferences/tree/master/snippets) directory for code reuse files.
+
+You might want to check out [sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) too.
 
 ## Icon
 

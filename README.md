@@ -31,6 +31,10 @@ You might want to check out [sublime-snippets-js](https://github.com/zenorocha/s
 
 See [icon](https://github.com/zenorocha/sublime-preferences/tree/master/icon) directory for custom icon made by [Jon-Paul Lunney](http://dribbble.com/shots/357612-Sublime-Text-2-Replacement-Icon).
 
+## Theme
+
+TODO *- Create your own theme.*
+
 ## History
 
 * v0.1.0 September 18, 2013

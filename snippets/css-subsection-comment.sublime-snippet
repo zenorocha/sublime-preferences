@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* ${1:Sub-section comment block}
+   ========================================================================== */
+]]></content>
+	<tabTrigger>css-comment2</tabTrigger>
+</snippet>

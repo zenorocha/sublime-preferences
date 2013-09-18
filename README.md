@@ -27,7 +27,7 @@ See [snippets](https://github.com/zenorocha/sublime-preferences/tree/master/snip
 
 ## Icon
 
-See [icon](https://github.com/zenorocha/sublime-preferences/tree/master/icon) directory for custom icon.
+See [icon](https://github.com/zenorocha/sublime-preferences/tree/master/icon) directory for custom icon made by [Jon-Paul Lunney](http://dribbble.com/shots/357612-Sublime-Text-2-Replacement-Icon).
 
 ## History
 

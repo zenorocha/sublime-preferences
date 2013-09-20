@@ -14,6 +14,12 @@
         "expr": true,
         "forin": true,
         "funcscope": false,
+        "globals": {
+            "A": true,
+            "Y": true,
+            "AUI": true,
+            "YUI": true
+        },
         "globalstrict": false,
         "immed": true,
         "iterator": false,

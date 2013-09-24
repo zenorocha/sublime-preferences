@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+shift+t"], "command": "open_terminal_project_folder" },
+    { "keys": ["alt+t"], "command": "open_terminal" }
+]

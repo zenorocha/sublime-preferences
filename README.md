@@ -1,6 +1,6 @@
 # Sublime Preferences
 
-![Sublime Text Icon](http://zno.io/RStj/SublimeText.png)
+![Sublime Text Icon](https://raw.githubusercontent.com/zenorocha/sublime-preferences/master/icon/SublimeText.png)
 
 > Here you can find the whole list of plugins, snippets and settings that I use on my [Sublime Text 3](http://www.sublimetext.com/3).
 
